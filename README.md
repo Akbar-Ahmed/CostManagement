@@ -1,2 +1,2 @@
 # CostManagement
-Scheduling VM 
+Automatically Scheduling Multiple EC2 Instances.
