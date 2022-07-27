@@ -16,7 +16,7 @@ Steps to run the project:
 
 3-Attach roles to that policy. ( for use case select **lambda**)
 
-4-Create  lambda functions both starting and stopping the EC2 instances. 
+4-Create  lambda functions for starting and stopping the EC2 instances. 
 (Note : I have attached the code for the lambda function in the repository)
 
 5- For Automation,go to Cloudwatch. 
