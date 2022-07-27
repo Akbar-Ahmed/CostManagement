@@ -9,6 +9,7 @@ Steps to run the project:
 
 
 2-Create a policy. 
+(Note: I have attached the JSON template in the repository)
 
 ![Screenshot (893)](https://user-images.githubusercontent.com/70852077/181307192-29a9d814-37d9-40b0-8bfe-aeba09425319.png)
 
