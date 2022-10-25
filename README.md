@@ -27,6 +27,7 @@ Steps to run the project:
 
 
 
+
 The EC2 are now scheduled according to the requirement.
 
 
